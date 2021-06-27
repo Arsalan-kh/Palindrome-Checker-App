@@ -14,3 +14,7 @@ HTML CSS and JavaScript, for UI I used bootstrap as well...
 ## How to run code ?
 To run this app, click live github website link given below. OR
 open index.html in your browser.
+## Repo Link:
+https://github.com/Arsalan-kh/Palindrome-Checker-App.git
+
+## Live link
