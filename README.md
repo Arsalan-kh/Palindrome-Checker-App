@@ -18,3 +18,4 @@ open index.html in your browser.
 https://github.com/Arsalan-kh/Palindrome-Checker-App.git
 
 ## Live link
+https://arsalan-kh.github.io/Palindrome-Checker-App/
